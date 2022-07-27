@@ -1,0 +1,17 @@
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+.credit {
+  float:right;
+  font-size:10px;
+  background-color:#b1bde3;
+  padding:5px;
+}
+
+.labeltext {
+  font-size:15px;
+}
